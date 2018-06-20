@@ -1,0 +1,14 @@
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\DotNetDataBase.mdf
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\DotNetDataBase_log.ldf
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\BusinnessLayer.dll.config
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\BusinnessLayer.dll
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\BusinnessLayer.pdb
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\DotNetClassLibrary.dll
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\EntityFramework.dll
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\DotNetClassLibrary.pdb
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\EntityFramework.xml
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\obj\Debug\BusinnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\obj\Debug\BusinnessLayer.dll
+C:\Users\flhureau\Documents\Visual Studio 2015\Projects\DotNet.Hureau.Louradour\DotNet.Hureau.Louradour\BusinnessLayer\obj\Debug\BusinnessLayer.pdb

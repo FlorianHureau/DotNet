@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "ListeProduits";
+}
+
+<h2>@ViewBag.Title.</h2>
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <button>Ajouter</button>
+    <input />
+    <ul>
+        @foreach (var produit in Model)
+        {
+            <li>
+                <p>@produit.Libelle</p>
+            </li>
+        }
+    </ul>
+</div>

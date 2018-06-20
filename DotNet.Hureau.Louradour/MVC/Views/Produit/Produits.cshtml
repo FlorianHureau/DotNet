@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Produits";
+}
+
+<h2>@ViewBag.Title.</h2>
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <ul>
+        <li>Code: @Model.Code</li>
+        <li>Libelle: @Model.Libelle</li>
+        <li>Description: @Model.Description</li>
+        <li>Prix: @Model.Prix</li>
+        <li>Stock: @Model.Stock</li>
+        <li>Catégorie: @Model.Categorie</li>
+    </ul>
+</div>
